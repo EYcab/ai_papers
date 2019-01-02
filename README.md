@@ -25,7 +25,7 @@
 |[YOLO_V2](https://arxiv.org/abs/1612.08242)  |     |    |    |    |
 |[YOLO_V3](https://arxiv.org/abs/1804.02767)  |     |    |    |    |
 |[SSD](https://arxiv.org/abs/1512.02325)  |    |    |    |    |
-|[RetinaNet(https://arxiv.org/abs/1708.02002)  |    |    |    |    |
+|[RetinaNet](https://arxiv.org/abs/1708.02002)  |    |    |    |    |
 
 ## Semantic Segmentation
 | Network |  Paper  |  Keras  |  PyTorch   |  TensorFlow  |
@@ -43,6 +43,12 @@
 | Network |  Paper  |  Keras  |  PyTorch   |  TensorFlow  |
 | ---     | ---     | ---     | ---        | ---          |
 |[MaskRCNN](https://arxiv.org/abs/1703.06870)|    |    |    |    |
+
+## Face Recognition
+| Network |  Paper  |  Keras  |  PyTorch   |  TensorFlow  |
+| ---     | ---     | ---     | ---        | ---          |
+|[FaceNet](https://arxiv.org/abs/1503.03832)|    |    |    |    |
+
 
 
 ## GAN
